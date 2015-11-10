@@ -1,0 +1,5 @@
+## Travis CI Integration
+
+language: node_js
+node_js:
+  - 0.10.30
